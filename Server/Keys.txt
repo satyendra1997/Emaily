@@ -1,0 +1,8 @@
+Client ID---- 424415155938-svo279st3ir0h4sn737q8hol9e4llc2c.apps.googleusercontent.com
+
+Client Secret ---- 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
+
+dev server ---http://frozen-plateau-56792.herokuapp.com/
+
+
+https://accounts.google.com/o/oauth2/v2/auth/oauthchooseaccount?response_type=code&redirect_uri=http%3A%2F%2Flocalhost%3A5000%2Fauth%2Fgoogle%2Fcallback&scope=profile%20email&client_id=424415155938-svo279st3ir0h4sn737q8hol9e4llc2c.apps.googleusercontent.com&flowName=GeneralOAuthFlow
