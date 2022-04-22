@@ -1,7 +1,7 @@
 # Emaily
 This app is used by admin to send the mail and collect the feedback at the cost of 1$ for one mail.
 This App uses:<br/>
-1.Node js for backend <br/>
+1.Express and Node js for backend <br/>
 2.MongoDB as a database<br/>
 3.Stripe for payment<br/>
 4.Sendgrid and Webhook for sending the mail and capturing the response.<br/>
